@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="questionTitle1">What value of \'y\' is a solution to this equation</string>
+    <string name="question1">10 y = 70</string>
+    <string name="trueAnswer1">y = 7</string>
+    <string name="falseAnswer1">y = 23</string>
+</resources>
